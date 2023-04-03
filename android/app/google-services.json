@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705556758762",
+    "project_id": "sellers-1-a",
+    "storage_bucket": "sellers-1-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705556758762:android:d2ac6c3f1e47c697ff5793",
+        "android_client_info": {
+          "package_name": "com.koekoetech.pandaeats.sellers_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705556758762-8h12atgo506d7326fa47arlo80mfgj3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFdp0i7HlrSg1eqLVUa0T4A_VWHDw_QPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705556758762-8h12atgo506d7326fa47arlo80mfgj3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
